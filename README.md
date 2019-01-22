@@ -1,2 +1,2 @@
-#MyRepo
+#MyRepository
 Hello this is my first repository
